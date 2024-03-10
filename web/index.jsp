@@ -1,19 +1,17 @@
-<%--<%@ page import="java.util.Date" %>--%>
-<%--<%@ page import="java.text.SimpleDateFormat" %>--%>
-<%--<%@ page language="java" contentType="text/html; charset=UTF-8"--%>
-<%--         pageEncoding ="UTF-8" %>--%>
-<%--<!doctype html>--%>
+<%--<%@ page language ="java" contentType="text/html; charset=UTF-8"--%>
+<%--         pageEncoding="UTF-8" %>--%>
+<%--<%@ include file ="IncludeFile.jsp" %>--%>
+<%--<!DOCTYPE html>--%>
 <%--<html>--%>
 <%--<head>--%>
-<%--  <meta charset="UTF-8">--%>
-<%--  <title>page 지시어 - import 속성</title>--%>
+<%--    <meta charset="UTF-8">--%>
+<%--    <title>include 지시어</title>--%>
 <%--</head>--%>
 <%--<body>--%>
-<%--<%--%>
-<%--  Date today = new Date();--%>
-<%--  SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");--%>
-<%--  String todayStr = dateFormat.format(today);--%>
-<%--  out.println("오늘 날짜 : "+todayStr);--%>
-<%--%>--%>
+<%--    <%--%>
+<%--        out.println("오늘 날짜 :" + today);--%>
+<%--        out.println("<br/>");--%>
+<%--        out.println("내일 날짜 : " + tomorrow);--%>
+<%--    %>--%>
 <%--</body>--%>
 <%--</html>--%>
