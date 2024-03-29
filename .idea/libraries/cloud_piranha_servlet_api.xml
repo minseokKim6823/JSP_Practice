@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cloud.piranha.servlet.api" type="repository">
+    <properties maven-id="cloud.piranha.servlet:piranha-servlet-api:20.11.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cloud/piranha/servlet/piranha-servlet-api/20.11.0/piranha-servlet-api-20.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -19,5 +19,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="cloud.piranha.servlet.api" level="project" />
+    <orderEntry type="library" name="alexecollins.jspec" level="project" />
   </component>
 </module>
