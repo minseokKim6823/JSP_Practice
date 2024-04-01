@@ -10,7 +10,7 @@
 %>
 <html>
 <head>
-    <title>Cookie - 아디디 저장하기</title>
+    <title>Cookie - 아이디 저장하기</title>
 </head>
 <body>
 <h2>로그인 페이지</h2>

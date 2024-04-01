@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="activation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-dbcp-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-dbutils-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-io-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/cos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/crypto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/javax.mail-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/javax.mail-api-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/javax.servlet-api-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/json-20200518.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/json-lib-2.0-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/json-parser-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/jsoup-1.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/mariadb-java-client-3.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/postgresql-42.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/standard-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/javax.servlet-api-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
